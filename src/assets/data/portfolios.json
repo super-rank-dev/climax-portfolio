@@ -1,0 +1,47 @@
+[
+    {
+        "name": "InVision",
+        "link": "https://invisionapp.com",
+        "description": "InVision's main website showcases the company's design and collaboration products, as well as resources for designers and design teams."
+    },
+    {
+        "name": "Inside Design",
+        "link": "https://invisionapp.com/inside-design",
+        "description": "Inside Design is InVision's blog and resource hub for designers, featuring articles, tutorials, podcasts, and more."
+    },
+    {
+        "name": "DesignBetter.co",
+        "link": "https://www.designbetter.co",
+        "description": "DesignBetter.co is a resource hub and community for design professionals, featuring articles, podcasts, and books about design and collaboration."
+    },
+    {
+        "name": "Treehouse",
+        "link": "http://teamtree.com",
+        "description": "Treehouse's main website provides information about the platform's courses and features, as well as resources for learners and teams."
+    },
+    {
+        "name": "Techdegree",
+        "link": "http://teamtree.com/techdegree",
+        "description": "Techdegree's website outlines the features and benefits of the web development bootcamp-style program, as well as providing information about curriculum and projects."
+    },
+    {
+        "name": "CodeinWP",
+        "link": "http://www.codeinwp.com",
+        "description": "CodeinWP is a blog and resource hub for web design and development, featuring articles, tutorials, and tools for bloggers, web designers, and developers."
+    },
+    {
+        "name": "Sentry",
+        "link": "http://sentry.io",
+        "description": "Sentry's website showcases the error and performance monitoring platform's features, integrations, and pricing."
+    },
+    {
+        "name": "Sentry Blog",
+        "link": "http://blog.sentry.io",
+        "description": "Sentry's blog provides articles, tutorials, and insights about software development, error monitoring, and more."
+    },
+    {
+        "name": "SentryWorld",
+        "link": "http://blog.sentry.io",
+        "description": "SentryWorld is a resource hub and community for developers, featuring articles, podcasts, and webinars about software development, monitoring, and error handling."
+    }
+]

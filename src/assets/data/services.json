@@ -1,0 +1,47 @@
+[
+    {
+        "icon": "bi bi-layout-text-window",
+        "name": "Responsive web design",
+        "description": "Optimizing a website's layout and functionality to ensure it looks and works well on all devices, including desktops, tablets, and mobile phones."
+    },
+    {
+        "icon": "bi bi-globe2",
+        "name": "Cross-browser compatibility",
+        "description": "Ensuring that a website's layout and features work consistently across all modern web browsers, including Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge."
+    },
+    {
+        "icon": "bi bi-compass",
+        "name": "Search engine optimization",
+        "description": "Optimizing a website's content and structure to help it appear at the top of search engine results pages (SERPs) for relevant keywords and queries."
+    },
+    {
+        "icon": "bi bi-arrow-repeat",
+        "name": "Website maintenance and updates",
+        "description": "Ongoing management and upkeep of a website, including backend updates, content updates, bug fixes, and security updates."
+    },
+    {
+        "icon": "bi bi-file-earmark",
+        "name": "CMS integration",
+        "description": "Integrating a content management system (CMS) such as WordPress or Drupal into a website to help manage and control its content, as well as simplify ongoing maintenance."
+    },
+    {
+        "icon": "bi bi-bag-check",
+        "name": "E-commerce development",
+        "description": "Designing and developing an online store with features such as product listings, shopping carts, and payment gateways to facilitate online transactions."
+    },
+    {
+        "icon": "bi bi-bookmark-star",
+        "name": "Custom WordPress development",
+        "description": "Building custom WordPress themes and plugins to extend the functionality of a WordPress website beyond what is offered by default."
+    },
+    {
+        "icon": "bi bi-brush",
+        "name": "UI/UX design",
+        "description": "Designing a website's user interface (UI) and user experience (UX) to ensure it is visually appealing, easy to use, and meets the needs of its target audience."
+    },
+    {
+        "icon": "bi bi-wrench",
+        "name": "Maintenance and Support",
+        "description": "As a Senior Frontend Web Developer, I understand that projects don’t end when the website is launched. I offer ongoing maintenance and support to ensure that your website continues to perform optimally and meet your evolving needs."
+    }
+]

@@ -1,0 +1,43 @@
+<!-- ======= Skills Section ======= -->
+<section id="skills" class="skills section-bg">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Skills</h2>
+            <p>I am proficient in a wide range of skills, including HTML, CSS, JavaScript, React, Angular, Vue, and more. I stay current with industry trends and constantly strive to improve my skills.</p>
+        </div>
+
+        <div class="row skills-content">
+
+            <div class="col-lg-6" data-aos="fade-up">
+
+                <ng-container *ngFor="let skill of skills | async; let i = index">
+                    <div class="progress" *ngIf="i % 2 === 0">
+                        <span class="skill">{{skill.name}} <i class="val">{{skill.familarity}}%</i></span>
+                        <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" [style.width.%]="skill.familarity">
+                            </div>
+                        </div>
+                    </div>
+                </ng-container>
+
+            </div>
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+                <ng-container *ngFor="let skill of skills | async; let i = index">
+                    <div class="progress" *ngIf="i % 2 === 1">
+                        <span class="skill">{{skill.name}} <i class="val">{{skill.familarity}}%</i></span>
+                        <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" [style.width.%]="skill.familarity">
+                            </div>
+                        </div>
+                    </div>
+                </ng-container>
+
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Skills Section -->

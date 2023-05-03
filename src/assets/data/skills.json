@@ -1,0 +1,114 @@
+[
+    {
+        "name": "C/C++",
+        "familarity": 100
+    },
+    {
+        "name": "Java",
+        "familarity": 80
+    },
+    {
+        "name": "Python",
+        "familarity": 80
+    },
+    {
+        "name": "JavaScript",
+        "familarity": 100
+    },
+    {
+        "name": "PHP",
+        "familarity": 100
+    },
+    {
+        "name": "CodeIgniter",
+        "familarity": 100
+    },
+    {
+        "name": "Laravel",
+        "familarity": 100
+    },
+    {
+        "name": "React",
+        "familarity": 100
+    },
+    {
+        "name": "Vue",
+        "familarity": 100
+    },
+    {
+        "name": "Next",
+        "familarity": 100
+    },
+    {
+        "name": "Nuxt",
+        "familarity": 100
+    },
+    {
+        "name": "Django",
+        "familarity": 100
+    },
+    {
+        "name": "Express",
+        "familarity": 100
+    },
+    {
+        "name": "React Native",
+        "familarity": 80
+    },
+    {
+        "name": "CSS",
+        "familarity": 100
+    },
+    {
+        "name": "Git",
+        "familarity": 100
+    },
+    {
+        "name": "GitHub",
+        "familarity": 100
+    },
+    {
+        "name": "Node.js",
+        "familarity": 100
+    },
+    {
+        "name": "Angular",
+        "familarity": 100
+    },
+    {
+        "name": "Gatsby.js",
+        "familarity": 100
+    },
+    {
+        "name": "TypeScript",
+        "familarity": 100
+    },
+    {
+        "name": "Redux",
+        "familarity": 100
+    },
+    {
+        "name": "Vuex",
+        "familarity": 100
+    },
+    {
+        "name": "HTML5",
+        "familarity": 100
+    },
+    {
+        "name": "REST APIs",
+        "familarity": 100
+    },
+    {
+        "name": "MySQL",
+        "familarity": 100
+    },
+    {
+        "name": "MongoDB",
+        "familarity": 100
+    },
+    {
+        "name": "SQLite",
+        "familarity": 100
+    }
+]

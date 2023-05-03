@@ -1,0 +1,23 @@
+<!-- ======= Portfolio Section ======= -->
+<section id="portfolio" class="portfolio section-bg">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Portfolio</h2>
+            <p>Here are a few examples of some of my best work as a Senior Frontend Web Developer.</p>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web" *ngFor="let portfolio of portfolios | async">
+                <a [title]="portfolio.name" [routerLink]="['portfolio-details', portfolio.name]">
+                    <div class="portfolio-wrap">
+                        <img [src]="'assets/img/portfolio/' + portfolio.name + '.jpg'" class="img-fluid" alt="">
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Portfolio Section -->

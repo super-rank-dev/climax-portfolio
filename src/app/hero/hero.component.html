@@ -1,0 +1,12 @@
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+        <h1>Welcom</h1>
+        <p>I'm
+            <span class="typed" *ngIf="sign; else fallback">{{typed}}|</span>
+            <ng-template #fallback>
+                <span class="typed">{{typed}}&nbsp;</span>
+            </ng-template>
+        </p>
+    </div>
+</section><!-- End Hero -->

@@ -1,0 +1,19 @@
+<!-- ======= Services Section ======= -->
+<section id="services" class="services">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Services</h2>
+            <p>As a Senior Frontend Web Developer, I offer a variety of services to help you create a stunning and user-friendly web application that meets your unique needs.</p>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" *ngFor="let service of services | async">
+                <div class="icon"><i [className]="service.icon"></i></div>
+                <h4 class="title"><a href="">{{service.name}}</a></h4>
+                <p class="description">{{service.description}}</p>
+            </div>
+        </div>
+
+    </div>
+</section><!-- End Services Section -->
